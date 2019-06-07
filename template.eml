@@ -1,0 +1,46 @@
+X-Unsent: 1
+To: [EMAIL_TO]
+Cc: [EMAIL_CC]
+Subject: Dormant Portfolio - [Month] [Year] (RM: [RMName])
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------050008080707050500070109"
+
+This is a multi-part message in MIME format.
+--------------050008080707050500070109
+Content-Type: text/html; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Dear [RMName],<br>
+<br>
+According to COO 33 Dormant Assets Policy, "A client relationship will be classified as Dormant when the client, their power of attorney and authorized signers are un-contactable. A client will be considered un­contactable in the event there is no client initiated transaction in the portfolio, and no client contact within the past twelve months and all attempts to subsequently contact client have failed."<br>
+<br>
+This email serves as a reminder that the following portfolios have been identified as un-contactable without client-initiated transactions and no contact report for the past 12 months. In accordance with the COO 33-1 Dormant Assets Policy, you are hereby granted till the 8th day of next month to confirm whether the client is contactable. (Refer to required actions as stipulated below).<br><br>
+<table border=1 cellspacing=0 cellpadding=5 width=100%>
+<tr>
+<td align=center bgcolor=#2f75b5><b>Portfolio<br>Number</b></td><td align=center bgcolor=#2f75b5><b>Creation<br>Date</b></td><td align=center bgcolor=#2f75b5><b>RM<br>U-ID</b></td><td align=center bgcolor=#2f75b5><b>RM Name</b></td><td align=center bgcolor=#2f75b5><b>Last<br>Activity</b></td><td align=center bgcolor=#2f75b5><b>Portfolio<br>Status</b></td>
+<td align=center bgcolor=#2f75b5><b>AUM -<br>2018.09<br>*k CHK</b></td><td align=center bgcolor=#2f75b5><b>AUC -<br>2018.09<br>*k CHK</b></td>
+<td align=center bgcolor=#ffe699><b>Contact<br>report filled<br>(Indicate<br>Y/N)</b></td>
+<td align=center bgcolor=#ffe699><b>Dormant<br>(Indicate Y/N)</b></td>
+</tr>
+[CONTENT]
+</table>
+<br>
+<u><b>Action Required (by 8th [Month] [Year])</b></u><br>
+<br>
+<ol>
+<li>To confirm contact report is filed for the respective portfolio where contact with client is established by completing the column 'Contact report filed'.</li>
+
+<b>OR</b><br>
+
+<li>To inform client relationship is dormant by completing the last column 'Dormant'. Please initiate closure of portfolios with zero or negative balance and no asset positions. Please refer to the Policy section 4.4 on Closing Dormant Portfolio.</li>
+</ol>
+<br>
+In the event that we do not receive your response or if your response indicated that "Contact report has been filed" but the report was not submitted in the system for any of the portfolios in the above list by the deadline, we would have to provide such portfolio details to BM and GH.<br>
+<br>
+Note:<br>
+<br>
+For portfolios with credit balances and/or asset positions and confirmation received is "Dormant = Y", ACM will transfer the portfolios to SCU* (except for EAM managed /EFA advised portfolios). EAM managed /EFA advised portfolios will remain with Intermediaries desk.<br>
+*To transfer to SCU SG for portfolio managed by SG RM and SG Booking Centre and SCU HK for portfolio managed by HK RM.<br>
+
+--------------050008080707050500070109
