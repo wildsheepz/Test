@@ -11,6 +11,7 @@ This is a multi-part message in MIME format.
 Content-Type: text/html; charset=utf-8; format=flowed
 Content-Transfer-Encoding: 8bit
 
+<font face="Calibri" size=10px>
 Dear [RMName],<br>
 <br>
 According to COO 33 Dormant Assets Policy, "A client relationship will be classified as Dormant when the client, their power of attorney and authorized signers are un-contactable. A client will be considered un­contactable in the event there is no client initiated transaction in the portfolio, and no client contact within the past twelve months and all attempts to subsequently contact client have failed."<br>
@@ -18,10 +19,16 @@ According to COO 33 Dormant Assets Policy, "A client relationship will be classi
 This email serves as a reminder that the following portfolios have been identified as un-contactable without client-initiated transactions and no contact report for the past 12 months. In accordance with the COO 33-1 Dormant Assets Policy, you are hereby granted till the 8th day of next month to confirm whether the client is contactable. (Refer to required actions as stipulated below).<br><br>
 <table border=1 cellspacing=0 cellpadding=5 width=100%>
 <tr>
-<td align=center bgcolor=#2f75b5><b>Portfolio<br>Number</b></td><td align=center bgcolor=#2f75b5><b>Creation<br>Date</b></td><td align=center bgcolor=#2f75b5><b>RM<br>U-ID</b></td><td align=center bgcolor=#2f75b5><b>RM Name</b></td><td align=center bgcolor=#2f75b5><b>Last<br>Activity</b></td><td align=center bgcolor=#2f75b5><b>Portfolio<br>Status</b></td>
-<td align=center bgcolor=#2f75b5><b>AUM -<br>2018.09<br>*k CHK</b></td><td align=center bgcolor=#2f75b5><b>AUC -<br>2018.09<br>*k CHK</b></td>
-<td align=center bgcolor=#ffe699><b>Contact<br>report filled<br>(Indicate<br>Y/N)</b></td>
-<td align=center bgcolor=#ffe699><b>Dormant<br>(Indicate Y/N)</b></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>Portfolio<br>Number</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>Creation<br>Date</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>RM<br>U-ID</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>RM Name</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>Last<br>Activity</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>Portfolio<br>Status</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>[AUM_NAME]</b></font></td>
+<td align=center bgcolor=#2f75b5><font face="Calibri" size=10px><b>[AUC_NAME]</b></font></td>
+<td align=center bgcolor=#ffe699><font face="Calibri" size=10px><b>Contact<br>report filled<br>(Indicate<br>Y/N)</b></font></td>
+<td align=center bgcolor=#ffe699><font face="Calibri" size=10px><b>Dormant<br>(Indicate Y/N)</b></font></td>
 </tr>
 [CONTENT]
 </table>
@@ -42,5 +49,6 @@ Note:<br>
 <br>
 For portfolios with credit balances and/or asset positions and confirmation received is "Dormant = Y", ACM will transfer the portfolios to SCU* (except for EAM managed /EFA advised portfolios). EAM managed /EFA advised portfolios will remain with Intermediaries desk.<br>
 *To transfer to SCU SG for portfolio managed by SG RM and SG Booking Centre and SCU HK for portfolio managed by HK RM.<br>
+</font>
 
 --------------050008080707050500070109
